@@ -1,0 +1,14 @@
+{
+    "name": "happybonobo_disable_webrtc",
+    "title": "Happy Bonobo: Disable WebRTC",
+    "id": "jid1-5Fs7iTLscUaZBgwr",
+    "description": "Hide in the forest, with WebRTC cleanly disabled.",
+    "author": "Chris Antaki",
+    "license": "MPL 2.0",
+    "version": "1.0.0",
+    "icon": "data/monkey-wr-48.png",
+    "icon64": "data/monkey-wr-64.png",
+    "permissions": {
+        "private-browsing": true
+    }
+}
