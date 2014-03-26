@@ -1,7 +1,7 @@
 Disable WebRTC, for Firefox
 ========================
 
-[Install here](https://addons.mozilla.org/en-US/firefox/user/ChrisAntaki/)
+[Install here](https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-disable-webrtc/)
 
 Hide in the forest, with WebRTC cleanly disabled.
 
