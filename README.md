@@ -3,10 +3,8 @@ Disable WebRTC, for Firefox
 
 [Install here](https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-disable-webrtc/)
 
-Hide in the forest, with WebRTC cleanly disabled.
+Did you know that WebRTC allows JavaScript to access your network IP(s), without any user prompt? [1]
 
-Why did I make this plugin? A friend of mine pointed out that with WebRTC, your local IP is exposed, without user interaction. https://hacking.ventures/local-ip-discovery-with-html5-webrtc-security-and-privacy-risk/
+This plugin cleanly disables WebRTC.
 
-If you don't find yourself using WebRTC, this plugin provides an easy way to disable it.
-
-Feel free to make a GitHub issue, or pull request. Thanks.
+[1] http://net.ipcalf.com/
