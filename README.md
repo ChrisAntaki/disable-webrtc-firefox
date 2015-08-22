@@ -7,4 +7,6 @@ Did you know that WebRTC allows JavaScript to access your local IP(s), without a
 
 This plugin cleanly disables WebRTC.
 
+Thanks for inspiring this addon, [@wartron](https://github.com/wartron).
+
 [1] https://www.browserleaks.com/webrtc
