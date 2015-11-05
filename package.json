@@ -1,15 +1,16 @@
 {
     "name": "happybonobo_disable_webrtc",
     "title": "Disable WebRTC",
-    "id": "jid1-5Fs7iTLscUaZBgwr",
-    "description": "Hide in the forest, with WebRTC cleanly disabled.",
+    "id": "jid1-5Fs7iTLscUaZBgwr@jetpack",
+    "description": "Disables WebRTC.",
     "author": "Chris Antaki",
     "license": "MPL 2.0",
-    "version": "1.0.6",
-    "icon": "data/safe-48.png",
+    "version": "1.0.7",
+    "icon": "icon.png",
     "permissions": {
         "private-browsing": true
     },
+    "main": "lib/main.js",
     "devDependencies": {
         "gulp": "^3.8.11",
         "gulp-image-resize": "^0.6.0",

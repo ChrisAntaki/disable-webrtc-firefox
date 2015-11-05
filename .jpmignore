@@ -1,0 +1,6 @@
+*.xpi
+.git/
+.gitignore
+.jpmignore
+gulpfile.js
+node_modules/
