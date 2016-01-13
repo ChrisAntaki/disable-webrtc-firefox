@@ -1,8 +1,8 @@
 {
     "name": "happybonobo_disable_webrtc",
-    "title": "Disable WebRTC",
+    "title": "Secure WebRTC",
     "id": "jid1-5Fs7iTLscUaZBgwr@jetpack",
-    "description": "Disables WebRTC.",
+    "description": "Secures WebRTC.",
     "author": "Chris Antaki",
     "license": "MPL 2.0",
     "version": "1.0.8",
