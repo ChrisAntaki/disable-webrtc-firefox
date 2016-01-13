@@ -5,7 +5,7 @@
     "description": "Secures WebRTC.",
     "author": "Chris Antaki",
     "license": "MPL 2.0",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "icon": "icon.png",
     "permissions": {
         "private-browsing": true
