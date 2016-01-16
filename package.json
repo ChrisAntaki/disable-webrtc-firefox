@@ -1,14 +1,18 @@
 {
     "name": "happybonobo_disable_webrtc",
-    "title": "Secure WebRTC",
+    "title": "Disable WebRTC",
     "id": "jid1-5Fs7iTLscUaZBgwr@jetpack",
-    "description": "Secures WebRTC.",
+    "description": "Disables WebRTC.",
     "author": "Chris Antaki",
     "license": "MPL 2.0",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "icon": "icon.png",
     "permissions": {
         "private-browsing": true
+    },
+    "engines": {
+        "firefox": ">=38.0a1",
+        "fennec": ">=38.0a1"
     },
     "main": "lib/main.js",
     "devDependencies": {
