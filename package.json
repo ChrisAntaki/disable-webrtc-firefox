@@ -5,9 +5,10 @@
     "description": "Disables WebRTC consistently.",
     "author": "Chris Antaki",
     "license": "MPL 2.0",
-    "version": "1.0.12",
+    "version": "1.0.14",
     "icon": "icon.png",
     "permissions": {
+        "multiprocess": true,
         "private-browsing": true
     },
     "engines": {
