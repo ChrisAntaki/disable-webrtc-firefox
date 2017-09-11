@@ -1,32 +1,10 @@
 {
-    "name": "happybonobo_disable_webrtc",
     "title": "Disable WebRTC",
-    "id": "jid1-5Fs7iTLscUaZBgwr@jetpack",
     "description": "Disables WebRTC consistently.",
     "author": "Chris Antaki",
     "license": "MPL 2.0",
-    "version": "1.0.16",
-    "icon": "icon.png",
-    "permissions": {
-        "multiprocess": true,
-        "private-browsing": true
-    },
-    "scripts": {
-        "start": "jpm xpi"
-    },
-    "engines": {
-        "firefox": ">=38.0a1",
-        "fennec": ">=38.0a1"
-    },
-    "preferences": [{
-        "name": "persistToggleState",
-        "title": "Toggle State Persistence",
-        "description": "By default, this plugin will reset its toggle state when your browser restarts. If you'd like the plugin's toggle state to persist beyond restarts, simply check this preference.",
-        "type": "bool",
-        "value": false
-    }],
-    "main": "lib/main.js",
-    "devDependencies": {
+    "version": "1.0.17",
+    "dependencies": {
         "gulp": "^3.8.11",
         "gulp-image-resize": "^0.6.0",
         "gulp-rename": "^1.2.2"
