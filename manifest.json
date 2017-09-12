@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Disable WebRTC",
-  "version": "1.0.17",
+  "version": "1.0.18",
 
   "description": "Disables WebRTC consistently.",
 
