@@ -28,7 +28,7 @@ function toggleWebRTC(enable = true) {
 }
 
 /** Handles clicks on the action button. */
-function handleClick(e) {
+function handleClick() {
   isEnabled = !isEnabled;
   toggleWebRTC(isEnabled);
 }
