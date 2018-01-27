@@ -3,7 +3,7 @@
     "description": "Disables WebRTC consistently.",
     "author": "Chris Antaki",
     "license": "MPL 2.0",
-    "version": "1.0.19",
+    "version": "1.0.20",
     "dependencies": {
         "gulp": "^3.8.11",
         "gulp-image-resize": "^0.6.0",
