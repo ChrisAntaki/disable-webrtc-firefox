@@ -17,7 +17,7 @@ function toggleWebRTC(enable = true) {
 
   // Update title.
   const title = enable ?
-    'WebRTC is not disabled. Be careful.' :
+    'WebRTC is NOT disabled. Be careful.' :
     'WebRTC is disabled.';
   browser.browserAction.setTitle({ title });
 
