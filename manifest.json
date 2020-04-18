@@ -5,6 +5,14 @@
 
   "description": "Disables WebRTC consistently.",
 
+  "commands": {
+      "_execute_browser_action": {
+          "suggested_key": {
+              "default": "Ctrl+Alt+W"
+          }
+      }
+  },
+
   "browser_action": {
     "default_icon": {
       "16": "images/safe-48.png",
