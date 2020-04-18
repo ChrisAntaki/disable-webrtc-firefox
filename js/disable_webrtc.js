@@ -23,7 +23,7 @@ function toggleWebRTC(enable = true) {
 
   // Update icon.
   const name = enable ? 'unsafe' : 'safe';
-  const path = `images/${name}-48.png`;
+  const path = `images/${name}-64.png`;
   browser.browserAction.setIcon({ path });
 }
 
