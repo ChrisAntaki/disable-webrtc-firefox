@@ -12,12 +12,12 @@ NOTE: Disabling WebRTC will break some sites that depend on it, like Google Voic
 [1] https://www.privacytools.io/webrtc.html
 
 Please consider donating to one of these awesome organizations:
-ACLU - https://www.aclunc.org/donating-aclu-general-information
-DP - https://secure.actblue.com/contribute/page/demanding
-EFF - https://supporters.eff.org/donate/join-eff-4
-EJI - https://support.eji.org/give/153413/#!/donation/checkout
-FFI - https://secure.actblue.com/donate/fair-fight-1
-FFTF - https://www.fightforthefuture.org/donate
-FPF - https://freedom.press/donate
+- ACLU - https://www.aclunc.org/donating-aclu-general-information
+- DP - https://secure.actblue.com/contribute/page/demanding
+- EFF - https://supporters.eff.org/donate/join-eff-4
+- EJI - https://support.eji.org/give/153413/#!/donation/checkout
+- FFI - https://secure.actblue.com/donate/fair-fight-1
+- FFTF - https://www.fightforthefuture.org/donate
+- FPF - https://freedom.press/donate
 
 Thanks for being privacy conscious ✊
