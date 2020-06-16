@@ -11,7 +11,7 @@ NOTE: Disabling WebRTC will break some sites that depend on it, like Google Voic
 
 [1] https://www.privacytools.io/webrtc.html
 
-Please consider donating to one of these awesome organizations:
+Please consider donating to these awesome organizations:
 - ACLU - https://www.aclunc.org/donating-aclu-general-information
 - DP - https://secure.actblue.com/contribute/page/demanding
 - EFF - https://supporters.eff.org/donate/join-eff-4
