@@ -25,3 +25,7 @@ Thanks for being privacy conscious ✊
 ## Privacy Policy
 
 This add-on collects nothing and sends nothing.
+
+## Monetization Policy
+
+I have zero interest in monetizing this plugin.
