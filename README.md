@@ -7,7 +7,7 @@ WebRTC is a communication protocol that relies on JavaScript that can leak your 
 
 This add-on allows you to easily disable WebRTC. You'll also be able to quickly toggle WebRTC back on/off by clicking the add-on's icon.
 
-NOTE: Disabling WebRTC will break some web applications, like Google Hangouts. Firefox only allows us to disable WebRTC across the entire browser, not per-tab or per-window. If you want to generally block WebRTC, and only enable it for a few tabs, then you could follow [karlbright@](https://github.com/ChrisAntaki/disable-webrtc-firefox/issues/27#issuecomment-393377906)'s advice: "the best solution for the foreseeable future is to either have another browser (perhaps firefox developer edition without this extension) used for those services, or enable WebRTC, and disable it again once finished."
+NOTE: Disabling WebRTC will break some web applications, like Google Hangouts. Firefox can't disable WebRTC per-tab or per-window, the settings affects the entire browser. You can easily toggle WebRTC on/off by clicking this add-on's icon. If that doesn't work for you, [karlbright@](https://github.com/ChrisAntaki/disable-webrtc-firefox/issues/27#issuecomment-393377906)'s advice might: "the best solution for the foreseeable future is to either have another browser (perhaps firefox developer edition without this extension) used for those services, or enable WebRTC, and disable it again once finished."
 
 [1] https://www.privacytools.io/webrtc.html
 
