@@ -21,3 +21,7 @@ Please consider donating to these awesome organizations:
 - FPF - https://freedom.press/donate
 
 Thanks for being privacy conscious ✊
+
+## Privacy Policy
+
+This add-on collects nothing and sends nothing.
