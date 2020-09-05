@@ -5,9 +5,9 @@ Disable WebRTC, for Firefox
 
 WebRTC allows websites to get your actual IP address from behind your VPN. This addon makes your VPN more effective by changing browser-wide settings in Firefox [1].
 
-This add-on allows you to easily disable WebRTC. You can quickly toggle WebRTC on and off by clicking the addon's icon.
+This addon allows you to easily disable WebRTC. You can click the addon's icon to quickly toggle WebRTC on and off.
 
-NOTE: Disabling WebRTC will break some web applications, like Google Hangouts. Firefox can't disable WebRTC per-tab or per-window, the setting affects the entire browser. If that doesn't work for you, [karlbright@](https://github.com/ChrisAntaki/disable-webrtc-firefox/issues/27#issuecomment-393377906)'s advice might help: "the best solution for the foreseeable future is to either have another browser (perhaps firefox developer edition without this extension) used for those services, or enable WebRTC, and disable it again once finished."
+NOTE: Some websites, like Google Meet, depend on WebRTC to work. Firefox sadly can't disable WebRTC per-tab or per-window, the setting affects the entire browser. If this situation doesn't work for you, [karlbright@](https://github.com/ChrisAntaki/disable-webrtc-firefox/issues/27#issuecomment-393377906)'s advice might help: "the best solution for the foreseeable future is to either have another browser (perhaps firefox developer edition without this extension) used for those services, or enable WebRTC, and disable it again once finished."
 
 [1] https://www.privacytools.io/webrtc.html
 
