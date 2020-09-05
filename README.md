@@ -3,9 +3,9 @@ Disable WebRTC, for Firefox
 
 [Install here](https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-disable-webrtc/)
 
-WebRTC is a communication protocol that relies on JavaScript that can leak your actual IP address from behind your VPN, by default. This addon fixes that, making VPNs more effective [1].
+WebRTC allows websites to get your actual IP address from behind your VPN. This addon makes your VPN more effective by changing browser-wide settings in Firefox [1].
 
-This add-on allows you to easily disable WebRTC. You'll also be able to quickly toggle WebRTC back on/off by clicking the add-on's icon.
+This add-on allows you to easily disable WebRTC. You can quickly toggle WebRTC on and off by clicking the addon's icon.
 
 NOTE: Disabling WebRTC will break some web applications, like Google Hangouts. Firefox can't disable WebRTC per-tab or per-window, the setting affects the entire browser. If that doesn't work for you, [karlbright@](https://github.com/ChrisAntaki/disable-webrtc-firefox/issues/27#issuecomment-393377906)'s advice might help: "the best solution for the foreseeable future is to either have another browser (perhaps firefox developer edition without this extension) used for those services, or enable WebRTC, and disable it again once finished."
 
@@ -24,7 +24,7 @@ Thanks for being privacy conscious ✊
 
 ## Privacy Policy
 
-This add-on collects nothing and sends nothing.
+This addon collects nothing and sends nothing.
 
 ## Monetization Policy
 
