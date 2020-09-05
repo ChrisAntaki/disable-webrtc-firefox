@@ -11,7 +11,7 @@ NOTE: Some websites, like Google Meet, depend on WebRTC to work. Firefox sadly c
 
 [1] https://www.privacytools.io/webrtc.html
 
-Please consider donating to these awesome organizations:
+These organizations fight for us every day. Please consider donating to them.
 - ACLU - https://www.aclunc.org/donating-aclu-general-information
 - DP - https://secure.actblue.com/contribute/page/demanding
 - EFF - https://supporters.eff.org/donate/join-eff-4
