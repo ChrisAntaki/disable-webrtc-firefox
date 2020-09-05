@@ -11,7 +11,7 @@ NOTE: Some websites, like Google Meet, depend on WebRTC to work. Firefox sadly c
 
 [1] https://www.privacytools.io/webrtc.html
 
-These organizations fight for us every day. Please consider supporting their work with a contribution. 💚
+These organizations fight for us. Please consider supporting their work with a contribution. 💚
 - ACLU - https://www.aclunc.org/donating-aclu-general-information
 - DP - https://secure.actblue.com/contribute/page/demanding
 - EFF - https://supporters.eff.org/donate/join-eff-4
@@ -20,7 +20,7 @@ These organizations fight for us every day. Please consider supporting their wor
 - FFTF - https://www.fightforthefuture.org/donate
 - FPF - https://freedom.press/donate
 
-Thanks for being privacy conscious ✊
+Thanks for being privacy conscious. ✊
 
 ## Privacy Policy
 
