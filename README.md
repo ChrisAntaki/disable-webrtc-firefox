@@ -1,7 +1,7 @@
 Disable WebRTC, for Firefox
 ========================
 
-[Install here](https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-disable-webrtc/)
+[Install here](https://addons.mozilla.org/firefox/addon/happy-bonobo-disable-webrtc/)
 
 WebRTC allows websites to get your actual IP address from behind your VPN. This addon fixes that issue and makes your VPN more effective [1] by changing browser-wide settings in Firefox.
 
