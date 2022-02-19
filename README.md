@@ -12,11 +12,11 @@ NOTE: Some websites, like Google Meet, depend on WebRTC to work. Firefox sadly c
 [1] https://browserleaks.com/webrtc
 
 These organizations fight for us. Please consider supporting their work with a contribution. 💚
-- ACLU - https://www.aclunc.org/donating-aclu-general-information
-- DP - https://secure.actblue.com/contribute/page/demanding
-- EFF - https://supporters.eff.org/donate/join-eff-4
-- EJI - https://support.eji.org/give/153413/#!/donation/checkout
-- FFI - https://secure.actblue.com/donate/fair-fight-1
+- ACLU - https://aclu.org/donate
+- DP - https://demandprogress.org/get-involved/
+- EFF - https://eff.org/donate
+- EJI - https://eji.org/donate
+- FFI - https://fairfight.com/donate
 - FFTF - https://www.fightforthefuture.org/donate
 - FPF - https://freedom.press/donate
 
